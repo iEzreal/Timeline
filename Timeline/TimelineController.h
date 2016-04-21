@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TimelineController.h
 //  Timeline
 //
 //  Created by Ezreal on 16/4/21.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TimelineController : UIViewController
 
 @end
-
